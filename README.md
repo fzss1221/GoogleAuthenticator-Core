@@ -1,2 +1,2 @@
 # GoogleAuthenticator-Core
-One GoogleAuthenticator util
+基于java实现的GoogleAuthenticator工具
