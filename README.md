@@ -1,2 +1,3 @@
 # GoogleAuthenticator-Core
-基于java实现的GoogleAuthenticator工具
+基于TOTP 方式，java实现的GoogleAuthenticator工具
+ 
